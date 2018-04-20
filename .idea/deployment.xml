@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://yi@10.13.32.74:22/home/yi/anaconda3/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Server74">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssh://yi@10.13.32.74:22/home/yi/anaconda3/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yi/project_wd/SpeechLanguageProcessing" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
